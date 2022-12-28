@@ -26,3 +26,21 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. 
+
+
+Why used Next.js?
+
+- full stack framework
+- can also use database without even going through the API, directly inside the components
+- less overhead
+- can deploy to one platform
+- ease of code + same coding notions in frontend and backend
+- all the code is together
+- 
+ 
+Why used Prisma?
+
+- typechecks ( typescript )
+- ease in database migrations
+- serverless database
+- free
