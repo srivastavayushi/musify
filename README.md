@@ -44,3 +44,5 @@ Why used Prisma?
 - ease in database migrations
 - serverless database
 - free
+- nested create
+- connect && connectorcreate
